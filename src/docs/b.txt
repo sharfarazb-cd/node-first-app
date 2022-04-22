@@ -1,0 +1,2 @@
+Line 1 from b.txt
+Line 2 from b.txt
